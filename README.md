@@ -12,7 +12,7 @@ Upload symbols tool to upload dSYMs files to Firebase for processing
 
 ## Before using
 
-Make sure to change those values in `firebase-upload-symbols.sh` file
+Make sure to change those values in `firebase-upload-symbols.sh` file if you want to use pre-saved settings
 ```shell
 # Change path to dSYM folder
 SAVED_dSYM_FOLDER="/Users/..../appDsyms" 
