@@ -2,7 +2,7 @@
 Upload symbols tool to upload dSYMs files to Firebase for processing
 
 ---
-#### Note, if you wish to build a macOS app to have a GUI, you can achieve that by using [Scriptable](https://github.com/cs4alhaider/Scriptable)
+#### Note, if you wish to build a macOS app to have a GUI, you can achieve that by using [Scriptable](https://github.com/cs4alhaider/Scriptable).
 ---
 
 | Example Terminal window |
@@ -12,7 +12,7 @@ Upload symbols tool to upload dSYMs files to Firebase for processing
 
 ## Before using
 
-Make sure to change those values in `firebase-upload-symbols.sh` file if you want to use pre-saved settings
+If you want to use pre-saved settings, make sure to change those values in `firebase-upload-symbols.sh` file 
 ```shell
 # Change path to dSYM folder
 SAVED_dSYM_FOLDER="/Users/..../appDsyms" 
