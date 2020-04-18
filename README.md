@@ -1,6 +1,7 @@
 # firebase-upload-symbols
 Upload symbols tool to upload dSYMs files to Firebase for processing
 
+
 | Example Terminal window |
 | --- |
 | ![](Assets/terminal_screenshot.jpg) |
@@ -8,7 +9,7 @@ Upload symbols tool to upload dSYMs files to Firebase for processing
 
 ## Before using
 
-Make sure to change those value in `firebase-upload-symbols.sh` file
+Make sure to change those values in `firebase-upload-symbols.sh` file
 ```shell
 # Change path to dSYM folder
 SAVED_dSYM_FOLDER="/Users/..../appDsyms" 
