@@ -1,6 +1,9 @@
 # firebase-upload-symbols
 Upload symbols tool to upload dSYMs files to Firebase for processing
 
+---
+#### Note, if you wish to build a macOS app to have a GUI, you can achieve that by using [Scriptable](https://github.com/cs4alhaider/Scriptable)
+---
 
 | Example Terminal window |
 | --- |
